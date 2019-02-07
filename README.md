@@ -1,3 +1,6 @@
+### POINTS: .5
+### KEY: the 2 submissions did not execute or were incomplete. Missing 3rd submission.
+
 # JavaScript: Additional events, timers, add attributes
 
 ### Exercise 1:
